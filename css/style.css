@@ -344,15 +344,19 @@
     color: blue;
 }
 .compatibili{
-    
-    width: 400px; /* larghezza desiderata della card */
-    height: 300px; /* altezza desiderata della card */
-    background-size: cover; /* fa sì che l'immagine copra l'intera area della card */
-    background-position: center; /* centra l'immagine all'interno della card */
-    border-radius: 10px; /* aggiunge angoli arrotondati per una migliore estetica */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* aggiunge un'ombra per effetto tridimensionale */
-    
+    height: 300px;  /* altezza */
+    width: 300px;    /* larghezza */
+    position: relative; 
+    left: 10px;
 }
 .clienti{
-    justify-content: flex-end;
+    display: flex;
+    justify-content:start;
+}
+.shopping{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    width: 100%;
 }
