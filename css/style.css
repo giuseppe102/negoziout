@@ -360,3 +360,13 @@
 .navbar{
     width: 100%;
 }
+
+.pagamento{
+    display: flex;
+    justify-content: center;
+}
+.paypal{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
