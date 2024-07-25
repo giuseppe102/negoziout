@@ -329,14 +329,14 @@
 }
 
 
-.instagram-color {
+.discord-color {
     color: #e44040; /* Colore di Instagram */
 }
 .truck-icon {
-    color: red; /* Imposta il colore rosso per l'icona del camion */
+    color: #ff0000; /* Imposta il colore rosso per l'icona del camion */
 }
-.linkinstagram{
-    color: red;
+.linkdiscord{
+    color: #ff0000;
 }
 
 .linktelegram{
@@ -369,4 +369,7 @@
     display: flex;
     justify-content: center;
     color: blue;
+}
+.discord{
+    color: #ff0000;
 }
