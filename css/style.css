@@ -371,7 +371,6 @@
 .paypal{
     display: flex;
     justify-content: center;
-    color: blue;
 }
 .discord{
     color: #ff0000;
@@ -389,4 +388,24 @@
 }
 .footerr{
     color: #ff0000;
+}
+.paypal-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #003087;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+}
+
+.paypal-button i {
+    margin-right: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
