@@ -440,3 +440,13 @@
 .titolissimo{
     color: #000000;
 }
+
+.fornitore{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cos{
+    text-align: center;
+}
