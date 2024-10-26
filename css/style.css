@@ -439,10 +439,11 @@
 
 .titolissimo{
     color: #000000;
+    font-size: small;
 }
 
 .fornitore{
-    height: 750px;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
