@@ -417,9 +417,22 @@
     color: yellow
 }
 
-.stand{
-    height: 80vh;
+
+.carattere{
+
+    font-size: small;
 }
-.avanz{
-    height: 80vh;
+.contenuto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.clicca{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.scrolling-text-container {
 }
