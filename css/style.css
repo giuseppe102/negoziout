@@ -448,6 +448,13 @@
     justify-content: center;
     align-items: center;
 }
+
+.rimborso{
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .cos{
     text-align: center;
 }
