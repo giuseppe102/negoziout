@@ -450,10 +450,13 @@
 }
 
 .rimborso{
-    height: 50vh;
+    height: 55vh;
     display: flex;
     justify-content: center;
     align-items: center;
+     max-width: 100%;
+    height: auto;
+    display: block;
 }
 .cos{
     text-align: center;
